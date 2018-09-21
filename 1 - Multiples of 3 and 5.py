@@ -1,4 +1,6 @@
-# 1) Multiples of 3 and 5 below 10
+'''
+1) Multiples of 3 and 5 below 10
+'''
 
 total = 0
 for i in range(1000):
